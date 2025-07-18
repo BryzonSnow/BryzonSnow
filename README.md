@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="100" src="https://media1.tenor.com/m/rz4kOurhQ0QAAAAd/big-mouth-cat.gif"  />
 
 ###
