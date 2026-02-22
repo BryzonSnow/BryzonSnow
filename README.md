@@ -6,11 +6,12 @@
 <h2 align="left">About me</h2>
 
 <ul>
+  <li>Making bugs since 2002</li>
   <li>Recently graduated as an Engineer, actively focused on Data Analytics, Machine Learning, and Computer Vision.</li>
   <li>Currently working on data analysis projects, including predictive modeling, interactive visualizations, and dataset processing.</li>
   <li>Experienced in modern web and mobile development utilizing React, TailwindCSS, Supabase, and Flutter.</li>
   <li>Passionate about integrating electronics and hardware, frequently working with Arduino and microcontrollers.</li>
-  <li>When I am not coding or analyzing data, you can find me training calisthenics or watching a good anime series.</li>
+  <li>When I am not coding or analyzing data, you can find me playing basket, training box or watching a good anime series.</li>
 </ul>
 
 <br>
