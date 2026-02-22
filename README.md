@@ -66,3 +66,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+<br>
+
+<h2 align="left">Current Status</h2>
+
+<div align="left">
+  <p><i>Debugging my code... or maybe just adding more bugs.</i></p>
+</div>
+
+<br>
