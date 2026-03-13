@@ -7,7 +7,7 @@
 
 <ul>
   <li>Making bugs since 2002</li>
-  <li>Recently graduated as an Engineer, actively focused on Data Analytics, Machine Learning, and Computer Vision.</li>
+  <li>Recently graduated as a Civil Engineer in Computer Science from UBB, actively focused on Data Analytics, Machine Learning, and Computer Vision.</li>
   <li>Currently working on data analysis projects, including predictive modeling, interactive visualizations, and dataset processing.</li>
   <li>Experienced in modern web and mobile development utilizing React, TailwindCSS, Supabase, and Flutter.</li>
   <li>Passionate about integrating electronics and hardware, frequently working with Arduino and microcontrollers.</li>
